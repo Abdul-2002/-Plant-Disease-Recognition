@@ -1,4 +1,4 @@
-# Plant-Disease-Predictor
+# GreenShield
 This model will predict any disease a plant might have.
 Plant Disease Prediction using PlantVillage Dataset
 This project aims to predict plant diseases using the PlantVillage dataset. The PlantVillage dataset is a large collection of images of diseased and healthy plants, covering various crop species and diseases.
